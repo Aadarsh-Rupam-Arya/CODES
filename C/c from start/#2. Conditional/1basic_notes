@@ -1,0 +1,22 @@
+it is used to perform some conditions 
+
+types are :-
+[
+    1: if statement
+    2: if else statement
+    3: if - else if ladder
+    4: nested if statement
+]
+
+syntax:-
+{
+    if (3>2){
+        printf("this is true")
+
+    }
+
+    then so on
+}
+
+
+

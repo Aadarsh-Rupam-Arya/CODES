@@ -1,0 +1,19 @@
+rules
+
+1{
+    switch expresion must be an --- int or chr
+}
+
+2{
+    case val must be integer or a character
+}
+
+3{
+    case must come inside switch
+}
+
+4{
+    break is not must
+}
+
+

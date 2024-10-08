@@ -1,0 +1,17 @@
+types of loops
+
+1> do while loop  - do while loop executes at least once
+
+
+    do{
+        // code
+    }
+    while (condition)
+
+
+
+2> while loop
+
+
+
+3> for loop

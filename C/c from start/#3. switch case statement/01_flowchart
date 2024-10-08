@@ -1,0 +1,13 @@
+
+flowchart
+
+
+    expression
+      |
+    case1     ----- statement1 --- > break ----
+      |                                       |
+    case2     ----- statement2 --- > break    |
+      |                                |      |
+    default   ----- statement          |      |
+                        |              |      |
+                        --------------------------outside of switch

@@ -1,0 +1,31 @@
+Function 
+
+
+take agr -------->  do work  -------------> return result
+
+used multiple time 
+
+used to reause
+
+
+syntax
+
+
+syntax 1 :  Prototype  (line to compile c or fnc declaration ) 
+
+void write();
+
+syntax 2 Defination 
+
+void write();{
+    printf("hello");
+}
+
+
+syntax 3 :
+Function call 
+
+void write();{
+    printf("hello");
+    return 0;
+}
